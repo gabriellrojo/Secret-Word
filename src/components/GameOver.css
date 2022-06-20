@@ -1,0 +1,14 @@
+.gameOverContainer h1{
+    margin: 50px 0 30px 0;
+    font-size: 2.5em;
+}
+
+.gameOverContainer span{
+    color: #ecfa00;
+    font-weight: bold;
+}
+
+.gameOverContainer button{
+    margin-top: 30px;
+}
+
