@@ -14,6 +14,7 @@ import { useEffect, useState } from 'react';
 
 function App() {
 
+  //refazer posteriormente utilizando o react router
   const stages = [
     {id:1, name:'home'},
     {id:2, name:'start'},
