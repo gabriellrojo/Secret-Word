@@ -1,6 +1,6 @@
 # About this
 
-This is a project made using ReactJs. The main purpose of this project is to apply the knowledge obtained in HTML, CSS and JS through ReactJS.
+This is a project that I made using ReactJs. The main purpose of this project is to apply the knowledge obtained in HTML, CSS and JS through ReactJS.
 
 # Secret-Word challenge
 
