@@ -10,3 +10,7 @@ This is a project that I made using ReactJs. The main purpose of this project is
 
 Simulating an api in a .js file that contains an array of objects separated by categories, the system randomly chooses a word from that category which is also chosen randomly through a JS method. The user has up to 3 attempts to guess the chosen word.
 From this project I was able to consolidate my knowledge in some ReactJs concepts.
+
+# Deploy
+
+https://secret-word-nv6v23oz3-gabriellrojo.vercel.app/
