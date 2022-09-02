@@ -8,7 +8,7 @@ Este projeto foi criando utilizando ReactJs. O principal objetivo deste projeto 
 
 # O Desafio
 
-Simulando uma api em um arquivo .js que contém um array de objetos separados por categorias, o sistema escolhe aleatoriamente uma palavra dessa categoria que também é escolhida aleatoriamente por meio de um método JS. O usuário tem até 3 tentativas para adivinhar a palavra escolhida.
+Simulando uma api em um arquivo .json que contém um array de objetos separados por categorias, o sistema escolhe aleatoriamente uma palavra dessa categoria que também é escolhida aleatoriamente por meio de um método JS. O usuário tem até 3 tentativas para adivinhar a palavra escolhida.
 A partir deste projeto pude consolidar meus conhecimentos em alguns conceitos do ReactJs como useState(), useEffect() e props.
 
 # Deploy
